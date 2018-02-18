@@ -5,7 +5,7 @@
 <p>It simulates a small and simple app to control the cash flow of a house, using an online API in MongoDb.</p>
 <p>Features implemented:</p>
 <ul>
-  <li>Pages and routes (SPA)</li>
+  <li>Pages and routes (SPA) and modules lazy loading</li>
   <li>Forms, ngModel, tables and data model in Angular</li>
   <li>Data flow between components. Dependency injections</li>
   <li>Inyectable services and service as provider</li>
